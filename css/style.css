@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body{
+	font-size: 14px;
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+}
+
+#hero{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+#hero h5{
+	font-size: 40px;
+}
+
+#hero p{
+	font-size: 30px;
+}
+
+.carousel-caption{
+	color: #000;
+	text-align: left;
+	align-content: center;
+}
+
+#products{
+	text-align: center;
+	padding: 40px 0;
+}
+
+#products h3{
+	font-size: 30px;
+	font-weight: 600;
+	margin-bottom: 50px;
+}
+
+.btn-masinf{
+	text-transform: uppercase;
+	border: solid 1px;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 30px;
+	padding: 10px 30px;
+}
+
+#products h4{
+	font-size: 17px;
+	font-weight: 800;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+footer{
+	background-color: #f2f2f2;
+	padding: 20px 0;
+	border-top: solid 1px;
+}
+
+footer h3{
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.lista{
+	color: #000;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.icon-bg{
+	background-color: #000;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	border-radius: 100%;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
